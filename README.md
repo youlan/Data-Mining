@@ -1,18 +1,18 @@
 # Data-Mining
 Course page: http://www.cs.utah.edu/~jeffp/teaching/cs5140.html
 ## Topics  
-#### Statistics Principles (hw1)
-### Topic 1: Similarity (hw2, hw3)
+#### Statistics Principles 
+### Topic 1: Similarity  
 * Jaccard + k-Grams .
 * Min Hashing . 
 * LSH . 
 * Distances . 
 * Word Embed + ANN vs. LSH . 
-### Topic 2: Clustering (hw4)
+### Topic 2: Clustering  
 * Hierarchical .    
 * K-Means . 
 * Spectral . 
-### Topic 3: Streaming (hw5)
+### Topic 3: Streaming   
 * Model and Misra-Greis . 
 * Count-Min Sketch . 
 * Count Sketch . 
