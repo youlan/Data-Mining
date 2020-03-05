@@ -28,7 +28,6 @@
 ### Topic 6:	Noise
 * Noise in Data  
 * Privacy  
-* Metric Learning 
 ### Topic 7: Graph Analysis . 
 * Markov Chains  
 * PageRank 
