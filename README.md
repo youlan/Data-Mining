@@ -1,12 +1,12 @@
 # Data-Mining
 ## Topics  
 #### Statistics Principles
-### Similarity
-####  Jaccard + k-Grams
-#### Min Hashing
-#### LSH
-#### Distances
-#### Word Embed + ANN vs. LSH 
+### Topic 1: Similarity
+⋅⋅* Jaccard + k-Grams
+⋅⋅* Min Hashing
+⋅⋅* LSH
+⋅⋅* Distances
+⋅⋅* Word Embed + ANN vs. LSH 
 #### Clustering : Hierarchical, K-Means, Spectral
 #### Streaming : Model and Misra-Greis
 #### Streaming: Count-Min Sketch, Count Sketch, and Apriori
