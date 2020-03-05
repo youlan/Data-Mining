@@ -1,4 +1,5 @@
 # Data-Mining
+Course page: http://www.cs.utah.edu/~jeffp/teaching/cs5140.html
 ## Topics  
 #### Statistics Principles
 ### Topic 1: Similarity
