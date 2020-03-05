@@ -33,5 +33,5 @@
 * Markov Chains  
 * PageRank 
 * MapReduce  
-* ommunities  
+* Communities  
 
