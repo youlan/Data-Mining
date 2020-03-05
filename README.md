@@ -2,7 +2,7 @@
 ## Topics  
 #### Statistics Principles
 ### Topic 1: Similarity
-⋅⋅* Jaccard + k-Grams.
+..* Jaccard + k-Grams.
 ⋅⋅* Min Hashing
 ⋅⋅* LSH
 ⋅⋅* Distances
